@@ -135,6 +135,7 @@ namespace Sorter{
                     Thread.Sleep(100);
                 }
             }
+            Console.Write($"Progress: {TotalNumber}/{TotalNumber} (100%) \r");
             progress.Join();
             Console.WriteLine();
             string outputFileContent = "";

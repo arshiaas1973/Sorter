@@ -1,0 +1,15 @@
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\Sorter.exe
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\Sorter.deps.json
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\Sorter.runtimeconfig.json
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\Sorter.dll
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\Sorter.pdb
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.csproj.AssemblyReference.cache
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.AssemblyInfoInputs.cache
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.AssemblyInfo.cs
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.csproj.CoreCompileInputs.cache
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.dll
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\refint\Sorter.dll
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.pdb
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\Sorter.genruntimeconfig.cache
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\obj\release\net7.0\ref\Sorter.dll

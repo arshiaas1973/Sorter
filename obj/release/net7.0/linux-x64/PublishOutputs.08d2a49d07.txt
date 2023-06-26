@@ -1,0 +1,2 @@
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\linux-x64\publish\Sorter.pdb
+C:\Users\ScaryWWolf\Desktop\Programming\Sorter\bin\release\net7.0\linux-x64\publish\Sorter
